@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="languages">
+        <item>abb</item>
+        <item>cdd</item>
+        <item>pho</item>
+        <item>xml</item>
+        <item>html</item>
+        <item>dragged</item>
+        <item>through</item>
+        <item>horse</item>
+        <item>teacher</item>
+        <item>position</item>
+        <item>power</item>
+        <item>plane</item>
+        <item>stands</item>
+        <item>ceiling</item>
+        <item>overvalued</item>
+    </string-array>
+</resources>
